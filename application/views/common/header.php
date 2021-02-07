@@ -34,7 +34,9 @@
         </div>
         <div class="collapse navbar-collapse" id="main_nav">
           <ul class="nav navbar-nav">
-            <li><a href="/index.html">Accueil </a></li>
+          <li><?= anchor('index', "Accueil"); ?></li>
+          <li><?= anchor('contact ', "Contact "); ?></li>
+          
           </ul>
           
         </div>
