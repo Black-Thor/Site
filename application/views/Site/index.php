@@ -8,5 +8,4 @@
   <p>Bla, bla, bla...</p>
   <p>Bla, bla, bla...</p>
   <p>Bla, bla, bla...</p>
-  echo heading("Welcome", 3);
 </div>
