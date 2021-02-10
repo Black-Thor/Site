@@ -47,8 +47,7 @@ class Site extends CI_Controller {
       $this->load->view('site/pageApropo',$data) ;  
       $this->load->view('common/footer',$data) ; 
     }
-
-
+  
     
     
 
